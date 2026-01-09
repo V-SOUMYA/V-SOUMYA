@@ -65,7 +65,7 @@ and what it takes to build them better.
 
 <h3 align="center">Socials</h3>
 
-<div style="max-width:420px; margin:auto;">
+<div style="max-width:50px; margin:auto;">
 <pre style="font-family:monospace;">
 404 — social life not deployed
 Instagram.exe not responding
@@ -94,6 +94,7 @@ Low priority dependency
 </picture>
 
 ###
+
 
 
 

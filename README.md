@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=700&color=9CDCFE&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+What%27s+Up%3F;I+am+Soumya;Currently+deepening+my+CS+foundation+at+the+graduate+level"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=700&color=9CDCFE&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+What%27s+Up%3F;I+am+Soumya;Currently+a+graduate+student+in+computer+science"
     alt="Typing SVG"
   />
 </p>
@@ -71,6 +71,7 @@ and what it takes to build them better.
 </picture>
 
 ###
+
 
 
 

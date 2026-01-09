@@ -63,6 +63,15 @@ and what it takes to build them better.
   </a>
 </div>
 
+<h3 align="center">Socials</h3>
+
+<p align="center">
+404 — social life not deployed<br>
+Instagram.exe not responding<br>
+Twitter not found<br>
+Service disabled by choice<br>
+Low priority dependency
+</p>
 
 
 ###
@@ -82,6 +91,7 @@ and what it takes to build them better.
 </picture>
 
 ###
+
 
 
 

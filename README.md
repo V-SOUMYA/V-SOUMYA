@@ -48,12 +48,14 @@ and what it takes to build them better.
 
 <div align="center">
   <a href="https://github.com/V-SOUMYA">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   </a>
+  <img width="20" />
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
 </div>
+
 
 ###
 
@@ -71,6 +73,7 @@ and what it takes to build them better.
 </picture>
 
 ###
+
 
 
 

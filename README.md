@@ -9,25 +9,32 @@ and what it takes to build them better.
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=tailwind" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://skillicons.dev/icons?i=py" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://skillicons.dev/icons?i=aws" style="height:60px; width:60px; object-fit: contain;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" style="height:60px; width:60px; object-fit: contain;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" style="height:60px; width:60px; object-fit: contain;" />
 </div>
+
 
 
 ###
@@ -57,5 +64,6 @@ and what it takes to build them better.
 </picture>
 
 ###
+
 
 

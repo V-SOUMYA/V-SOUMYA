@@ -67,10 +67,10 @@ and what it takes to build them better.
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=V-SOUMYA&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=V-SOUMYA&theme=dracula&row=1&column=6&margin-w=8&margin-h=8" height="150" />
-</div>
+</div> -->
 
 ###
 
@@ -81,6 +81,7 @@ and what it takes to build them better.
 </picture>
 
 ###
+
 
 
 

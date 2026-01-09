@@ -5,7 +5,6 @@
   />
 </p>
 
-<br>
 
 ###
 
@@ -13,6 +12,8 @@
 Mostly curious about how systems learn, scale, and break —  
 and what it takes to build them better.
 </p>
+
+<br>
 
 ###
 
@@ -83,6 +84,7 @@ and what it takes to build them better.
 </picture>
 
 ###
+
 
 
 

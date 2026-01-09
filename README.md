@@ -5,7 +5,7 @@
   />
 </p>
 
-
+<br>
 
 ###
 
@@ -42,7 +42,7 @@ and what it takes to build them better.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" style="height:60px; width:60px; object-fit: contain;" />
 </div>
 
-
+<br>
 
 ###
 
@@ -73,7 +73,6 @@ and what it takes to build them better.
 </div> -->
 <br>
 <br>
-<br>
 
 ###
 
@@ -84,6 +83,7 @@ and what it takes to build them better.
 </picture>
 
 ###
+
 
 
 

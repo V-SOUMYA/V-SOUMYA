@@ -64,7 +64,7 @@ and what it takes to build them better.
 </div>
 
 <h3 align="center">Socials</h3>
-<div style="max-width:360px; margin:auto; padding: 0 2000px;">
+<p align="center">
 <pre>
 404 — social life not deployed
 Instagram.exe not responding
@@ -72,7 +72,8 @@ Twitter not found
 Service disabled by choice
 Low priority dependency
 </pre>
-</div>
+</p>
+
 
 
 
@@ -94,4 +95,5 @@ Low priority dependency
 </picture>
 
 ###
+
 

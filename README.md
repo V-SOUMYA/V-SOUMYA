@@ -74,7 +74,6 @@ and what it takes to build them better.
 Instagram.exe not responding
 Twitter not found
 Service disabled by choice
-Low priority dependency
 </pre>
 
 </td>
@@ -102,6 +101,7 @@ Low priority dependency
 </picture>
 
 ###
+
 
 
 

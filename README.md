@@ -16,7 +16,7 @@ and what it takes to build them better.
 
 ###
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; padding: 0 80px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; padding: 0 180px;">
   <img src="https://skillicons.dev/icons?i=tailwind" style="height:45px; width:45px; object-fit: contain;" />
   <img src="https://skillicons.dev/icons?i=py" style="height:45px; width:45px; object-fit: contain;" />
   <img src="https://skillicons.dev/icons?i=aws" style="height:45px; width:45px; object-fit: contain;" />
@@ -101,6 +101,7 @@ Service disabled by choice
 </picture>
 
 ###
+
 
 
 

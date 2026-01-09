@@ -65,13 +65,21 @@ and what it takes to build them better.
 
 <h3 align="center">Socials</h3>
 
-<p align="center"; style="font-family:monospace;">
-404 — social life not deployed<br>
-Instagram.exe not responding<br>
-Twitter not found<br>
-Service disabled by choice<br>
+<table align="center">
+<tr>
+<td>
+
+<pre>
+404 — social life not deployed
+Instagram.exe not responding
+Twitter not found
+Service disabled by choice
 Low priority dependency
-</p>
+</pre>
+
+</td>
+</tr>
+</table>
 
 
 
@@ -94,6 +102,7 @@ Low priority dependency
 </picture>
 
 ###
+
 
 
 

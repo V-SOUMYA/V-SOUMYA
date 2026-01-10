@@ -1,0 +1,27 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DenverCoder1/github-contribution-grid-pacman@v1
+        with:
+          username: V-SOUMYA
+          output: |
+            dist/pacman.svg
+            dist/pacman-dark.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

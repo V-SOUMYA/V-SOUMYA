@@ -14,13 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate pacman graph
-        uses: Platane/snk@v3
+      - name: Generate Pacman graph
+        uses: maurodesouza/pacman-contribution-graph@main
         with:
           github_user_name: V-SOUMYA
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

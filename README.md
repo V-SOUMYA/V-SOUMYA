@@ -1,3 +1,4 @@
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=700&color=9CDCFE&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+What%27s+Up%3F;I+am+Soumya;Currently+a+graduate+student+in+computer+science"
@@ -80,38 +81,13 @@ Service disabled by choice
 </tr>
 </table>
 
-
-
-
-
-###
-
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=V-SOUMYA&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=V-SOUMYA&theme=dracula&row=1&column=6&margin-w=8&margin-h=8" height="150" />
-</div> -->
-
-###
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V-SOUMYA/V-SOUMYA/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V-SOUMYA/V-SOUMYA/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/V-SOUMYA/V-SOUMYA/output/pacman-contribution-graph.svg">
-</picture> -->
-
 ###
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/V-SOUMYA/V-SOUMYA/output/pacman-dark.svg?v=1"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/V-SOUMYA/V-SOUMYA/output/pacman.svg?v=1"
-  />
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/V-SOUMYA/V-SOUMYA/output/pacman.svg?v=1"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V-SOUMYA/V-SOUMYA/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V-SOUMYA/V-SOUMYA/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/V-SOUMYA/V-SOUMYA/output/pacman-contribution-graph.svg">
 </picture>
+
+
+###

@@ -10,7 +10,7 @@
 ###
 
 <p align="center">
-Mostly curious about how systems learn, scale, and break —  
+Mostly curious about how systems learn, scale, and break -  
 and what it takes to build them better.
 </p>
 
